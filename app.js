@@ -19,7 +19,7 @@ const IMG = {
     oniondosa: 'images/onion dosa.png',
 
     poratta: 'images/poratta.jpg',
-    kothuporatta: 'images/kothuparotta.png',
+    kothuporatta: 'images/kothuparotta.jpg',
 
     halfboiled: 'images/halfboil.png',
     omelette: 'images/ombelette.jpg',
