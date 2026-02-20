@@ -19,21 +19,21 @@ const IMG = {
     oniondosa: 'images/onion dosa.png',
 
     poratta: 'images/poratta.jpg',
-    kothuporatta: 'images/Kothuparotta.jpgg',
+    kothuporatta: 'images/Kothuparotta.jpg',
 
     halfboiled: 'images/halfboil.png',
-    omelette: 'images/ombelette.jpg',
+    omelette: 'images/omelette.jpg',
 
-    eggveechu: 'images/eggveechu.jpg',
+    eggveechu:   'images/Eggveechu.jpg',
     eggdosa: 'images/egg dosa.jpg',
     eggfried: 'images/egg fried.png',
-    eggroast: 'images/egg roast.webp',
+    eggroast: 'images/Egg Roast.webp',
     onionuthappam: 'images/onion uthappam.webp',
 
     chickenrice: 'images/chicken rice.webp',
     eggrice: 'images/egg rice.jpg',
     meals: 'images/meals.png',
-    kuska: 'images/kuska.png',
+    kuska: 'images/Kuska.png',
 };
 
 
