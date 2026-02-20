@@ -22,7 +22,7 @@ const IMG = {
     kothuporatta: 'images/Kothuparotta.jpg',
 
     halfboiled: 'images/halfboil.png',
-    omelette: 'images/omelette.jpg',
+    omelette: 'images/ombelette.jpg',
 
     eggveechu:   'images/Eggveechu.jpg',
     eggdosa: 'images/egg dosa.jpg',
